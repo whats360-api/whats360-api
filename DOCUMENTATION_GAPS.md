@@ -25,10 +25,15 @@ Every page was opened at least at thumbnail size. Pages marked 'read at full siz
 | 27-28 | DKIM domains, email dashboard | Read at full size (p28 cut off on the right in the export). Pages show real domains and DKIM data, not reproduced. Dashboard features, not documented as API. |
 | 29-32 | SMS gateway and campaign dialog | p31-32 also read at full size (empty states). p29-30 read at full size, summarised in whats360-crm-integrations/sms-gateway-dashboard.md. No SMS API seen on those pages. |
 | 33-35 | VCash guide and developer portal | Documented in whats360-vcash-api |
-| 36-47 | Reports, transactions, services, VCash SMS lists | Dashboard only. Contains private data, not reproduced. |
+| 36-39 | Reports and transactions | Dashboard only. Contains financial data, not reproduced. Not read for documentation. |
+| 41 | vCash USSD orders | Read at full size. Dashboard form: device, USSD code, SIM 1 or SIM 2, run button, four quick codes and an order log with a pending status. No API shown. Result retrieval is not documented. |
+| 42-43 | vCash SMS list | Read at full size. A send form (device, recipient, text, SIM) and a filtered list. List content is private message data, not reproduced. |
+| 44-45 | vCash dashboard and main dashboard | Read at full size. Summary cards, quick actions, plan usage and charts. Shows private numbers, not reproduced. |
+| 46 | My services | Read at full size. Five service cards (WhatsApp, SMS service, e-wallets, email, professional embedding) and a "customize your services" box. Dashboard only. |
+| 47 | CRM settings, conversation statuses | Read at full size. Summarised in whats360-crm-integrations/crm-settings-dashboard.md. |
 | 48-64 | CRM settings, dashboard, notes, contacts, staff | Dashboard only. See whats360-crm-integrations for the CRM PDFs. |
 | 65 | Persona editor | Read at full size and matched to persona-ai-assistant.md. |
-| 66-71 | Persona editor states | p70 and p71 read at full size (empty list, template cards). p66-69 thumbnail only. Look like the same form. Not compared field by field. |
+| 66-71 | Persona editor states | p66-71 read at full size. Same form as p65 with sample entries (health adviser, customer service, sales representative) and the empty list and template cards on p70-71. Field names match persona-ai-assistant.md. No persona API shown. |
 | 72-77 | Conversation bot templates, quick setup, new bot form | Read at full size. Summarised in whats360-crm-integrations/bots-dashboard.md. No bot API or webhook payload shown. |
 | 40 | vCash USSD campaigns form | Read at full size. Dashboard form with a masked PIN, not reproduced. No API shown. |
 | 78 | Empty conversation bot list | Read at full size, empty state. |
