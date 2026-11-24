@@ -2,7 +2,7 @@
 
 # whats360.live Developer Hub
 
-Official developer resources for [whats360.live](https://whats360.live), a WhatsApp Business platform with a shared team inbox, CRM, bulk campaigns, an AI bot, a REST API and webhooks.
+Official developer resources for [whats360.live](https://whats360.live?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=hub-intro), a WhatsApp Business platform with a shared team inbox, CRM, bulk campaigns, an AI bot, a REST API and webhooks.
 
 > Source of truth: the whats360.live dashboard and https://whats360.live. This hub documents only what whats360.live documents officially. Gaps are marked.
 
@@ -45,8 +45,8 @@ Full details: [whats360-api-docs](https://github.com/whats360-api/whats360-api-d
 - **PHP or Node.js?** See the SDK repos. Python: no official example yet; the REST calls are plain HTTP.
 
 ## Links
-- Website: https://whats360.live
-- Pricing: https://whats360.live/#pricing
+- Website: https://whats360.live?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=hub-links
+- Pricing: https://whats360.live/#pricing?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=hub-pricing
 - WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · Email: info@whats360.live
 - Email: info@whats360.live
 
