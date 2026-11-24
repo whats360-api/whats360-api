@@ -17,8 +17,13 @@ Every page was opened at least at thumbnail size. Pages marked 'read at full siz
 | 1-4 | Subscriptions, plans, upgrade dialog | Dashboard only. Plan limits and prices not published. |
 | 5-9 | Developer portal: send, device and campaign endpoints, access token | Documented in whats360-api-docs |
 | 10-13 | Number warm-up, webhook pages | Warm-up: dashboard only. Webhooks documented in whats360-webhooks |
-| 14-28 | Email plans, Email Send API, templates, bots, campaigns, lists, mailboxes, DKIM domains | Email API documented in whats360-email-api. Other pages are dashboard features, not documented as API. |
-| 29-32 | SMS gateway and campaign dialog | p29-30 read at full size, summarised in whats360-crm-integrations/sms-gateway-dashboard.md. No SMS API seen on those pages. p31-32 thumbnail only. |
+| 14-15 | Device management (list, add device dialog, device counter) | Read at full size. Device endpoints already in whats360-api-docs. Pages show real device numbers, not reproduced. |
+| 16 | Professional embedding | Read at full size, matches whats360-crm-integrations/professional-embedding.md (token masked on page, not reproduced). |
+| 17 | Email plans | Read at full size earlier. Prices not published. |
+| 18 | Email Send API | Read at full size. Required fields corrected in whats360-email-api (body not marked required). |
+| 19-26 | Email templates, bots, campaigns, mailing lists, mailboxes | Read at full size. See whats360-email-api/dashboard-email-features.md. Pages show real list names, counts and addresses, not reproduced. |
+| 27-28 | DKIM domains, email dashboard | Read at full size (p28 cut off on the right in the export). Pages show real domains and DKIM data, not reproduced. Dashboard features, not documented as API. |
+| 29-32 | SMS gateway and campaign dialog | p31-32 also read at full size (empty states). p29-30 read at full size, summarised in whats360-crm-integrations/sms-gateway-dashboard.md. No SMS API seen on those pages. |
 | 33-35 | VCash guide and developer portal | Documented in whats360-vcash-api |
 | 36-47 | Reports, transactions, services, VCash SMS lists | Dashboard only. Contains private data, not reproduced. |
 | 48-64 | CRM settings, dashboard, notes, contacts, staff | Dashboard only. See whats360-crm-integrations for the CRM PDFs. |
