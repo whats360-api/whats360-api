@@ -28,7 +28,10 @@ Every page was opened at least at thumbnail size. Pages marked 'read at full siz
 | 36-47 | Reports, transactions, services, VCash SMS lists | Dashboard only. Contains private data, not reproduced. |
 | 48-64 | CRM settings, dashboard, notes, contacts, staff | Dashboard only. See whats360-crm-integrations for the CRM PDFs. |
 | 65 | Persona editor | Read at full size and matched to persona-ai-assistant.md. |
-| 66-78 | Persona editor states | Thumbnail only. Look like the same form. Not compared field by field. |
+| 66-71 | Persona editor states | Thumbnail only, plus p70 read in part. Look like the same form. Not compared field by field. |
+| 72-77 | Conversation bot templates, quick setup, new bot form | Read at full size. Summarised in whats360-crm-integrations/bots-dashboard.md. No bot API or webhook payload shown. |
+| 40 | vCash USSD campaigns form | Read at full size. Dashboard form with a masked PIN, not reproduced. No API shown. |
+| 78 | Not read | Thumbnail only. |
 | 79-80 | CRM auto-status rules | Partly read at full size. See bots-dashboard.md. |
 | 81-88 | Bot dialogs (AI bot tabs, simple bot) | Read at full size. Dashboard fields summarised in whats360-crm-integrations/bots-dashboard.md. No bot API seen on these pages. |
 | 89-90 | Templates gallery | Not read in detail. |
