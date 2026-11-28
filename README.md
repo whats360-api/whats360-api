@@ -42,13 +42,12 @@ Full details: [whats360-api-docs](https://github.com/whats360-api/whats360-api-d
 - **How do I use the whats360.live API?** Token plus `instance_id` query parameters on `https://whats360.live/api/v1/...` endpoints. See the API docs.
 - **How do I receive webhooks?** See [whats360-webhooks](https://github.com/whats360-api/whats360-webhooks).
 - **WooCommerce / Shopify / n8n?** Webhook guide covers all three using the dashboard's Incoming templates.
-- **PHP or Node.js?** See the SDK repos. Python: no official example yet; the REST calls are plain HTTP.
+- **PHP, Node.js or Python?** PHP and Node.js clients are in the SDK repos; [whats360-developer-examples](https://github.com/whats360-api/whats360-developer-examples) has PHP, Node.js and Python samples. The REST calls are plain HTTP.
 
 ## Links
 - Website: https://whats360.live?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=hub-links
 - Pricing: https://whats360.live/#pricing?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=hub-pricing
-- WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · Email: info@whats360.live
-- Email: info@whats360.live
+- WhatsApp: https://wa.me/whats360.live · Direct chat (business inquiries): https://wa.me/201030741766 · Email: info@whats360.live
 
 ## Official links
 - Website: https://whats360.live
